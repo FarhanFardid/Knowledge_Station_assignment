@@ -1,0 +1,28 @@
+.blogs{
+    display:grid;
+    grid-template-columns: 9fr 3fr;
+    grid-gap:10px;
+    
+}
+.blog-summary{
+    text-align: center;
+    padding: 15px;
+    background-color: antiquewhite;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .blogs{
+       
+        grid-template-columns: 1fr;
+        grid-gap: 2px;
+        
+    }
+
+    .blog-summary{
+    
+        padding: 5px;
+      
+    }
+
+}

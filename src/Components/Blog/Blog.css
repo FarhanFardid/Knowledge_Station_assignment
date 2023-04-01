@@ -1,0 +1,13 @@
+.article-blog{
+    margin: 5px;
+    border: 1px solid gray;
+    border-radius: 8px;
+    background-color: rgb(233, 223, 209);
+
+}
+
+.article{
+    text-align: center;
+    padding: 10px;
+    margin: 8px;
+}

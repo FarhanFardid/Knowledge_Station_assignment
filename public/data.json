@@ -1,0 +1,39 @@
+[
+    {
+      "id": "6427acd8caf238aa1282a66c",
+      "Author_img": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "Author_name": "Pacheco Sam",
+      "Blog_title": "Machine Learning and Artificial Intelligence",
+      "Blog_cover": "https://img.freepik.com/free-vector/ai-machine-learning-template-vector-disruptive-technology-blog-banner_53876-112230.jpg",
+      "Read_time": "06",
+      "Publish":"21 March,2023"
+    },
+    {
+      "id": "6427acd89835c42f0187dd7e",
+      "Author_img": "https://images.unsplash.com/photo-1530268729831-4b0b9e170218?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8cmVhbCUyMHBlcnNvbnxlbnwwfHwwfHw%3D&w=1000&q=80",
+      "Author_name": "Kay Martinez",
+      "Blog_title": "Big Data Analytics in Real Life Scenario",
+      "Blog_cover": "https://www.kindpng.com/picc/m/361-3617484_bigdata-trasparent-big-data-cover-page-hd-png.png",
+      "Read_time": "08",
+      "Publish":"18 February,2023"
+    },
+    {
+      "id": "6427acd828637dc49a2f3afa",
+      "Author_img": "https://media.istockphoto.com/id/685132223/photo/businesswoman-with-braided-hair-over-white.jpg?s=612x612&w=0&k=20&c=HmsQrf9AuqHReVZ7GNAggi5udYR7-wW7OzhcHFaqU6Y=",
+      "Author_name": "Lorna Cooley",
+      "Blog_title": "Cyber Security in Recent Times",
+      "Blog_cover": "https://t3.ftcdn.net/jpg/02/69/74/04/360_F_269740489_H9JCPmidJQh3erTmXPnlg5capVGXTdFb.jpg",
+      "Read_time": "12",
+      "Publish":"10 February,2023"
+    },
+    {
+      "id": "6427acd8251c5f008512fbad",
+      "Author_img": "https://media.istockphoto.com/id/685132245/photo/mature-businessman-smiling-over-white-background.jpg?s=612x612&w=0&k=20&c=OJk6U-oCZ31F3TGmarAAg2jVli8ZWTagAcF4P-kNIqA=",
+      "Author_name": "Debra Wolf",
+      "Blog_title": "Programming Languages and Software Development Demands",
+      "Blog_cover": "https://previews.123rf.com/images/vladgrin/vladgrin1809/vladgrin180900058/110173006-programming-web-banner-best-programming-languages-technology-process-of-software-development.jpg",
+      "Read_time": "07",
+      "Publish":"25 January,2023"
+    }
+    
+  ]
