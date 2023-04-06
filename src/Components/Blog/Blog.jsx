@@ -9,7 +9,7 @@ const Blog = () => {
         <p>
           Props short form of 'properties' are passed to a child component from
           its parent component. They are read-only properties and cannot be
-          modified by the component receiving them.Props are passed as the
+          modified by the component receiving them. Props are passed as the
           arguments to the component function and accessed using the props
           keyword.<br></br>
           On the other hand State is managed within a component. It can be
